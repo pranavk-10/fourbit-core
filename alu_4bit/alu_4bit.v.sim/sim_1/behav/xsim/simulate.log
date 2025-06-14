@@ -1,0 +1,27 @@
+Time resolution is 1 ps
+Invalid opcode
+Time=0 | a=1010, b=0101, opcode=xxx | result=xxxx, zero=x
+Time=10000 | a=1010, b=0101, opcode=000 | result=1111, zero=0
+Time=20000 | a=1010, b=0101, opcode=001 | result=0101, zero=0
+Time=30000 | a=1010, b=0101, opcode=010 | result=0000, zero=1
+Time=40000 | a=1010, b=0101, opcode=011 | result=1111, zero=0
+Time=50000 | a=1010, b=0101, opcode=100 | result=1111, zero=0
+Time=60000 | a=1010, b=0101, opcode=101 | result=0100, zero=0
+Time=70000 | a=1010, b=0101, opcode=110 | result=0101, zero=0
+Time=80000 | a=1010, b=0101, opcode=111 | result=0001, zero=0
+Time=90000 | a=0000, b=0000, opcode=000 | result=0000, zero=1
+Time=100000 | a=1111, b=1111, opcode=001 | result=0000, zero=1
+Time=110000 | a=1010, b=1010, opcode=010 | result=1010, zero=0
+Time=120000 | a=0001, b=1111, opcode=011 | result=1111, zero=0
+Time=130000 | a=1001, b=1001, opcode=100 | result=0000, zero=1
+Time=140000 | a=0100, b=0001, opcode=001 | result=0011, zero=0
+Time=150000 | a=0011, b=1101, opcode=101 | result=0110, zero=0
+Time=160000 | a=0101, b=0010, opcode=001 | result=0011, zero=0
+Time=170000 | a=1101, b=0110, opcode=101 | result=1010, zero=0
+Time=180000 | a=1101, b=1100, opcode=001 | result=0001, zero=0
+Time=190000 | a=0110, b=0101, opcode=010 | result=0100, zero=0
+Time=200000 | a=0101, b=0111, opcode=010 | result=0101, zero=0
+Time=210000 | a=1111, b=0010, opcode=110 | result=0111, zero=0
+Time=220000 | a=1000, b=0101, opcode=100 | result=1101, zero=0
+Time=230000 | a=1101, b=1101, opcode=101 | result=1010, zero=0
+$finish called at time : 240 ns : File "C:/Users/hp/.Xilinx/projects/alu_4bit.v/alu_4bit.v.srcs/sources_1/new/alu_4bit_tb.v" Line 69

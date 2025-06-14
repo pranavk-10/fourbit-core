@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+D:/programming/rtl projects/alu_4bit/alu_4bit.v.srcs/sources_1/new/alu_4bit.v,1741972467,verilog,,D:/programming/rtl projects/instruction_regsiter_4bit/instruction_regsiter_4bit.srcs/sources_1/new/inst_reg.v,,alu_4bit,,,,,,,,
+D:/programming/rtl projects/alu_4bit/alu_4bit.v.srcs/sources_1/new/alu_4bit_tb.v,1741974937,verilog,,,,alu_4bit_tb,,,,,,,,
+D:/programming/rtl projects/instruction_regsiter_4bit/instruction_regsiter_4bit.srcs/sources_1/new/inst_reg.v,1742339186,verilog,,D:/programming/rtl projects/integration/integration.srcs/sources_1/new/top.v,,inst_reg,,,,,,,,
+D:/programming/rtl projects/integration/integration.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+D:/programming/rtl projects/integration/integration.srcs/sources_1/new/top.v,1742343239,verilog,,D:/programming/rtl projects/integration/integration.srcs/sources_1/new/top_tb.v,,top,,,,,,,,
+D:/programming/rtl projects/integration/integration.srcs/sources_1/new/top_tb.v,1742343128,verilog,,,,top_tb,,,,,,,,

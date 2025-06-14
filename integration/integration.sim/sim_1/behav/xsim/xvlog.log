@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/programming/rtl projects/instruction_regsiter_4bit/instruction_regsiter_4bit.srcs/sources_1/new/inst_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module inst_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/programming/rtl projects/integration/integration.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'result' is not allowed [D:/programming/rtl projects/integration/integration.srcs/sources_1/new/top.v:40]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/programming/rtl projects/integration/integration.srcs/sources_1/new/top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_tb
