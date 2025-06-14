@@ -1,0 +1,38 @@
+# Compiled simulation files
+*.vvp
+*.out
+*.o
+
+# GTKWave dump files
+*.vcd
+*.fst
+*.lxt
+*.gtkw
+
+# ModelSim / QuestaSim
+work/
+transcript
+*.wlf
+*.log
+*.mif
+
+# Vivado / Xilinx files (optional, if you use them)
+*.jou
+*.log
+*.str
+*.cache/
+*.webtalk/
+*.hw/
+*.runs/
+*.ip_user_files/
+*.xpr
+*.xgui
+*.sim/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
